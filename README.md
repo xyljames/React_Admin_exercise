@@ -1,4 +1,4 @@
-# Kyruus Front End Interview
+# React-Admin-Try-Out
 
 coding exercise using React-admin to create a simple UI to view, delete, and update a set of application users.
 using local json server to test all different endpoints.
